@@ -5,4 +5,4 @@ require_once LIBS . '/functions.php';
 
 
 new shop\App();
-debug(\shop\App::$app->getProperties());
+throw new Exception("fck", 404);
