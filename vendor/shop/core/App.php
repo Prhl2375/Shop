@@ -1,8 +1,6 @@
 <?php
 
-
 namespace shop;
-
 
 class App
 {
@@ -13,6 +11,8 @@ public static $app;
      self::$app=Registry::instance();
      $this->getParams();
      new ErrorHandler();
+     new Router();
+     Router::dispatch($query);
  }
 protected function getParams(){
      $params = require_once CONF . '/params.php';
