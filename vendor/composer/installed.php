@@ -22,7 +22,7 @@
         'gabordemooij/redbean' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => 'a9fd27ffc5486fee93e16c7eb206427a35ac67b8',
+            'reference' => 'ee59fd1eb9ff3117bd325b1253021eec191481ee',
             'type' => 'library',
             'install_path' => __DIR__ . '/../gabordemooij/redbean',
             'aliases' => array(

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../userdata/MySQL-8.0-Win10/shop/.idea/shop.iml" filepath="$PROJECT_DIR$/../../userdata/MySQL-8.0-Win10/shop/.idea/shop.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/shop.loc.iml" filepath="$PROJECT_DIR$/.idea/shop.loc.iml" />
     </modules>
   </component>

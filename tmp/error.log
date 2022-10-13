@@ -6,3 +6,763 @@
 =========================
 [2022-09-15 11:31:19] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
 =========================
+[2022-09-15 12:28:48] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-16 13:28:53] | Error: syntax error, unexpected 'class' (T_CLASS), expecting ';' or ',' | File: C:\OpenServer\domains\shop.loc\app\models\AppModel.php | line: 8
+=========================
+[2022-09-16 13:29:40] | Error: Class 'app\models\R' not found | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 10
+=========================
+[2022-09-16 13:30:11] | Error: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' | File: C:\OpenServer\domains\shop.loc\app\controllers\MainController.php | line: 14
+=========================
+[2022-09-16 13:30:45] | Error: Call to a member function getData() on float | File: C:\OpenServer\domains\shop.loc\app\controllers\MainController.php | line: 14
+=========================
+[2022-09-16 13:41:41] | Error: Class name must be a valid object or a string | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-09-16 13:44:04] | Error: syntax error, unexpected ''app\models\\'' (T_CONSTANT_ENCAPSED_STRING) | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 37
+=========================
+[2022-09-16 13:48:04] | Error: Class 'shop\base\R' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Model.php | line: 11
+=========================
+[2022-09-16 13:57:44] | Error: Class 'shop\base\R' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Model.php | line: 12
+=========================
+[2022-09-16 14:10:13] | Error: Class 'app\models\R' not found | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 10
+=========================
+[2022-09-16 14:10:54] | Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'product' at line 1 | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-09-17 10:47:45] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 12:51:47] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 12:57:02] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 13:16:01] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 13:17:08] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 13:17:12] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 13:17:33] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 13:20:50] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 15:14:40] | Error: syntax error, unexpected ';' | File: C:\OpenServer\domains\shop.loc\app\views\Main\index.php | line: 89
+=========================
+[2022-09-17 15:34:47] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 15:39:40] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:36:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:36:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:36:52] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:36] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:36] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:36] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:38] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:38] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:38] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:39] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:39] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:39] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:57] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:57] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:38:57] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:40:39] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:40:39] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:40:39] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:41:56] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:41:56] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:41:56] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:46:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:46:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:46:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:47:24] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 17:47:24] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 19:31:40] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-17 20:05:17] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:10:42] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:13:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:13:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:13:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:13:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:13:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:13:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:13:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:13:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:13:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:13:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:16:23] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 18:16:24] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 19:16:44] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 19:16:58] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 19:47:57] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-19 19:48:40] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-20 08:43:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-20 11:56:23] | Error: syntax error, unexpected '$i' (T_VARIABLE), expecting ';' | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 12
+=========================
+[2022-09-20 12:02:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-20 12:04:33] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-20 12:26:29] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-21 17:53:09] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-09-21 18:02:17] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:34:09] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:36:05] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:36:08] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:36:13] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:36:14] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:38:10] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:43:34] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:44:28] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:52:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:54:38] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:54:52] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:54:59] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:55:00] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 18:56:19] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-21 19:00:36] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 44
+=========================
+[2022-09-22 10:57:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-09-22 14:19:57] | Error: syntax error, unexpected end of file | File: C:\OpenServer\domains\shop.loc\app\views\Catalog\index.php | line: 124
+=========================
+[2022-09-22 15:45:46] | Error: Access to undeclared static property: shop\base\View::$app | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\View.php | line: 37
+=========================
+[2022-09-22 15:46:56] | Error: Cannot use object of type shop\Registry as array | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\View.php | line: 39
+=========================
+[2022-09-22 16:13:15] | Error: Class 'R' not found | File: C:\OpenServer\domains\shop.loc\app\models\CatalogModel.php | line: 11
+=========================
+[2022-10-01 16:56:32] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-01 17:17:39] | Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1' at line 1 | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-10-01 17:19:23] | Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '::getCurrency() limit 1' at line 1 | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-10-01 17:19:40] | Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '::getCurrency()} limit 1' at line 1 | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-10-01 17:25:32] | Error: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-10-01 17:33:09] | Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EUR'' limit 1' at line 1 | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-10-01 17:34:23] | Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EUR''' at line 1 | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-10-01 18:04:45] | Error: syntax error, unexpected ';', expecting ')' | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 17
+=========================
+[2022-10-01 18:05:05] | Error: Cannot use object of type stdClass as array | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 32
+=========================
+[2022-10-01 18:05:07] | Error: Cannot use object of type stdClass as array | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 32
+=========================
+[2022-10-01 18:06:13] | Error: Cannot use object of type stdClass as array | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 32
+=========================
+[2022-10-01 18:06:35] | Error: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 18
+=========================
+[2022-10-01 18:06:36] | Error: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 18
+=========================
+[2022-10-01 18:06:36] | Error: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 18
+=========================
+[2022-10-01 18:06:37] | Error: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 18
+=========================
+[2022-10-01 18:35:37] | Error: Cannot use object of type stdClass as array | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 32
+=========================
+[2022-10-01 18:36:02] | Error: Cannot use object of type stdClass as array | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 32
+=========================
+[2022-10-01 18:36:06] | Error: Cannot use object of type stdClass as array | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 32
+=========================
+[2022-10-01 18:39:57] | Error: Cannot use object of type stdClass as array | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 32
+=========================
+[2022-10-01 18:41:20] | Error: Cannot use object of type stdClass as array | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 32
+=========================
+[2022-10-01 18:43:03] | Error: syntax error, unexpected '}', expecting end of file | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 20
+=========================
+[2022-10-01 18:43:04] | Error: syntax error, unexpected '}', expecting end of file | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 20
+=========================
+[2022-10-01 18:52:45] | Error: Using $this when not in object context | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 31
+=========================
+[2022-10-01 18:57:37] | Error: syntax error, unexpected 'public' (T_PUBLIC) | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 17
+=========================
+[2022-10-02 16:54:53] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 17:24:08] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 17:24:54] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 17:34:07] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 17:34:08] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 18:39:22] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 18:45:33] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 18:48:47] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 18:49:52] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 18:50:39] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 18:52:19] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 18:53:09] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 18:53:27] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 18:54:26] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 19:05:47] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 19:07:46] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 19:08:02] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 19:08:07] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 19:08:42] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 19:08:47] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 19:09:15] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-04 20:09:18] | Error: syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 20
+=========================
+[2022-10-06 09:37:29] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 09:38:36] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 09:51:59] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 09:54:43] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 09:55:14] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 09:56:05] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 09:57:01] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:01:23] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:01:47] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 11:01:47] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 11:01:50] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 11:01:54] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:08:51] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:08:58] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:11:46] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 11:12:12] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 11:15:06] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:15:46] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:16:24] | Error: syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | File: C:\OpenServer\domains\shop.loc\app\controllers\CurrencyController.php | line: 12
+=========================
+[2022-10-06 11:17:36] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:18:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 11:19:11] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:23:44] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:25:21] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:27:04] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:31:14] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:31:26] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:31:26] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:36:47] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:36:58] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:37:02] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:38:31] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:38:41] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:41:25] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:41:38] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:41:45] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 11:43:21] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:34:20] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:34:29] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:34:42] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:34:52] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:35:05] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:35:12] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:35:33] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:41:10] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:41:15] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:41:54] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 13:42:17] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 15:11:03] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 15:11:05] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 15:11:06] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 15:11:34] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 15:13:15] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 15:13:15] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 15:13:47] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 15:15:47] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 15:18:09] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 15:24:44] | Error: syntax error, unexpected '}', expecting ';' or ',' | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\View.php | line: 42
+=========================
+[2022-10-06 15:39:25] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 15:39:28] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 16:19:33] | Error: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 21
+=========================
+[2022-10-06 16:21:07] | Error: Class 'R' not found | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 12
+=========================
+[2022-10-06 16:33:32] | Error: Call to undefined function app\models\getCurrencyRate() | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 18
+=========================
+[2022-10-06 16:34:27] | Error: Call to undefined function app\models\getCurrencyRate() | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 18
+=========================
+[2022-10-06 17:04:36] | Error: syntax error, unexpected '}', expecting end of file | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 27
+=========================
+[2022-10-06 17:11:32] | Error: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 18
+=========================
+[2022-10-06 17:12:44] | Error: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 18
+=========================
+[2022-10-06 17:12:45] | Error: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 18
+=========================
+[2022-10-06 17:12:46] | Error: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ')' | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 18
+=========================
+[2022-10-06 17:14:15] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 17:15:54] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 17:16:55] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:31:31] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:33:32] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:35:42] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:35:46] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:36:47] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:38:19] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:39:24] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:39:31] | Error: syntax error, unexpected 'if' (T_IF) | File: C:\OpenServer\domains\shop.loc\app\models\CatalogModel.php | line: 16
+=========================
+[2022-10-06 18:40:37] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:40:38] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 18:56:08] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:56:15] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 18:56:37] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 19:05:23] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 19:05:47] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 19:06:08] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 19:49:02] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 19:49:05] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 19:51:17] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 19:51:22] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 20:07:11] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 20:12:47] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 20:13:39] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 20:13:44] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 20:14:02] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 20:22:07] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-06 21:46:59] | Error: syntax error, unexpected 'if' (T_IF) | File: C:\OpenServer\domains\shop.loc\app\models\CatalogModel.php | line: 16
+=========================
+[2022-10-06 23:44:52] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 23:44:57] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-06 23:48:16] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-07 10:01:52] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-07 10:10:57] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-07 10:10:59] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-07 10:12:42] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:21:37] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:22:15] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:25:36] | Error: syntax error, unexpected ';', expecting ')' | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\View.php | line: 47
+=========================
+[2022-10-07 10:29:20] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:29:36] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:29:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:30:07] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:30:19] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:34:31] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:36:11] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:36:11] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:39:09] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:39:09] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:39:09] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:39:09] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:40:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:40:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:40:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:40:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:40:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:40:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:41:23] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:41:23] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:41:23] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:41:23] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:41:23] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:41:23] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:42:13] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:42:13] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:42:13] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:42:13] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:42:13] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:42:13] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:43:45] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:43:45] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:43:45] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:43:45] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:43:45] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:46:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:46:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:46:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:46:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:46:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:19] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:19] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:19] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:19] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:19] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:19] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 10:50:51] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:17:41] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:17:41] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:17:41] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:01] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:01] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:01] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:01] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:01] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:01] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 11:18:18] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 41
+=========================
+[2022-10-07 16:54:24] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-07 16:54:32] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-07 17:36:51] | Error: Class "app\models\CurrencyModel" not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-07 17:36:56] | Error: Class "app\models\CurrencyModel" not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-08 13:43:31] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 38
+=========================
+[2022-10-08 13:45:34] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 38
+=========================
+[2022-10-08 13:45:55] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 38
+=========================
+[2022-10-08 13:47:22] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 38
+=========================
+[2022-10-08 13:50:09] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 39
+=========================
+[2022-10-08 13:50:46] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 39
+=========================
+[2022-10-08 13:50:48] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 39
+=========================
+[2022-10-08 13:51:30] | Error: Call to undefined method app\models\SingleModel::getData() | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 39
+=========================
+[2022-10-08 14:30:02] | Error: Class name must be a valid object or a string | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 31
+=========================
+[2022-10-08 16:05:11] | Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1' at line 1 | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-10-08 16:05:24] | Error: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'limit 1' at line 1 | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-10-08 19:56:24] | Error: syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or ',' | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Model.php | line: 15
+=========================
+[2022-10-09 09:16:07] | Error: syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or ',' | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Model.php | line: 15
+=========================
+[2022-10-09 09:16:16] | Error: syntax error, unexpected 'public' (T_PUBLIC), expecting ';' or ',' | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Model.php | line: 15
+=========================
+[2022-10-09 09:35:52] | Error: Call to undefined method app\widgets\CurrencyWidget::getCurrencyRate() | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 16
+=========================
+[2022-10-09 09:37:05] | Error: Call to undefined method app\widgets\CurrencyWidget::getCurrencyRate() | File: C:\OpenServer\domains\shop.loc\app\models\MainModel.php | line: 15
+=========================
+[2022-10-09 09:44:15] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-09 10:10:47] | Error: Class 'R' not found | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 25
+=========================
+[2022-10-09 10:10:50] | Error: Class 'R' not found | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 25
+=========================
+[2022-10-09 10:15:03] | Error: Class 'R' not found | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 25
+=========================
+[2022-10-09 10:15:45] | Error: OODB Store requires a bean, got: array | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\OODB.php | line: 119
+=========================
+[2022-10-09 10:21:21] | Error: A database has already been specified for this key. | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | line: 415
+=========================
+[2022-10-09 10:22:19] | Error: Call to a member function isFrozen() on null | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | line: 156
+=========================
+[2022-10-09 10:22:37] | Error: Class 'R' not found | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 11
+=========================
+[2022-10-09 10:25:17] | Error: Class 'R' not found | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 12
+=========================
+[2022-10-09 10:25:38] | Error: A database has already been specified for this key. | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | line: 415
+=========================
+[2022-10-09 11:13:12] | Error: A database has already been specified for this key. | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | line: 415
+=========================
+[2022-10-09 11:30:24] | Error: Too few arguments to function RedBeanPHP\Facade::loadAll(), 1 passed in C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Model.php on line 33 and exactly 2 expected | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | line: 1207
+=========================
+[2022-10-09 11:32:24] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 32
+=========================
+[2022-10-09 11:36:31] | Error: Class 'app\models\CurrencyModel' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 32
+=========================
+[2022-10-09 11:45:28] | Error: Call to a member function getData() on null | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 35
+=========================
+[2022-10-09 11:45:38] | Error: Call to a member function getData() on null | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Controller.php | line: 35
+=========================
+[2022-10-09 11:53:54] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-09 16:35:20] | Error: Class 'shop\base\R' not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\base\Model.php | line: 21
+=========================
+[2022-10-09 17:06:02] | Error: Too few arguments to function app\widgets\CurrencyWidget::getCurrencyRate(), 0 passed in C:\OpenServer\domains\shop.loc\app\models\CatalogModel.php on line 15 and exactly 1 expected | File: C:\OpenServer\domains\shop.loc\app\widgets\CurrencyWidget.php | line: 20
+=========================
+[2022-10-09 17:10:31] | Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p' in 'where clause' | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-10-11 19:40:38] | Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause' | File: C:\OpenServer\domains\shop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | line: 206
+=========================
+[2022-10-11 19:44:33] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:44:33] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:44:33] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:44:33] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:44:38] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:44:38] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:44:38] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:44:38] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:45:15] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:45:15] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:45:15] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-11 19:45:15] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-12 12:30:21] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-12 12:30:35] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-12 12:30:49] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-12 14:29:32] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-12 14:37:34] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-12 16:36:28] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-13 18:49:03] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 35
+=========================
+[2022-10-13 18:50:41] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 35
+=========================
+[2022-10-13 18:51:11] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 35
+=========================
+[2022-10-13 18:51:11] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 42
+=========================
+[2022-10-13 18:52:00] | Error: Page not found | File: C:\OpenServer\domains\shop.loc\vendor\shop\core\Router.php | line: 35
+=========================

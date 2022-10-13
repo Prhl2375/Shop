@@ -6,6 +6,8 @@
     }
   },
   "require": {
-    "gabordemooij/redbean": "dev-master"
+    "gabordemooij/redbean": "dev-master",
+    "ext-json": "*",
+    "ext-curl": "*"
   }
 }

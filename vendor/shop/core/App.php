@@ -5,8 +5,9 @@ namespace shop;
 class App
 {
 public static $app;
+
  public function __construct(){
-     $query = trim($_SERVER['QUERY_STRING'], '/');
+     $query = trim(explode('&', $_SERVER['QUERY_STRING'])[0], '/');
      session_start();
      self::$app=Registry::instance();
      $this->getParams();

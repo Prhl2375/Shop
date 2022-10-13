@@ -28,6 +28,11 @@ abstract class Controller
         $this->prefix = $route['prefix'];
         $this->view = $route['action'];
         $this->layout = LAYOUT;
+        $model = 'app\models\\' . ucfirst($this->controller) . 'Model';
+        if(class_exists($model)){
+            $modelObject = new $model($_GET);
+            $this->set($modelObject->getData());
+        }
     }
 
 

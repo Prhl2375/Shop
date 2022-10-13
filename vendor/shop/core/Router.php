@@ -24,17 +24,16 @@ public static function getRoute(){
 
 public static function dispatch($url){
     if (static::matchRoute($url)){
-        $controller = 'app\controllers\\' . static::upperCamelCase(self::$route["prefix"] . self::$route["controller"]) . 'Controller';
+        $controller = 'app\controllers\\' . self::$route["prefix"] . static::upperCamelCase(self::$route["controller"]) . 'Controller';
         if(class_exists($controller)){
             $controllerObject = new $controller(self::$route);
             $action = static::lowerCamelCase(self::$route["action"]) . 'Action';
             if (method_exists($controllerObject, $action)){
                 $controllerObject->$action();
                 $controllerObject->getView();
-            }else{
-                throw new \Exception("Page not found", 404);
             }
         }else{
+            debug($controller);
             throw new \Exception("Page not found", 404);
         }
     }else{
