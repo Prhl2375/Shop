@@ -37,7 +37,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="col-md-6 top-header-left">
                 <div class="drop">
                     <div class="box">
-                        <select onchange="clickCurrency(this)" tabindex="4" class="currency">
+                        <select onchange="currencyChange(this)" tabindex="4" class="currency">
                             <option value="" class="label"> <?=$data['currency']['name'];?></option>
                             <?php foreach ($data['currencies'] as $curr): ?>
                             <option value="<?=$curr['name']?>"><?=$curr['name']?></option>
@@ -75,7 +75,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             <div class="col-md-9 header-left">
                 <div class="top-nav">
                     <ul class="memenu skyblue"><li class="active"><a href="/">Home</a></li>
-                        <li class="grid"><a href="/catalog">All products</a>
+                        <li class="grid"><a href="/catalog">Catalog</a>
                         <li class="grid"><a href="/typo.html">Blog</a>
                         </li>
                         <li class="grid"><a href="/contact.html">Contact</a>
@@ -86,8 +86,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             </div>
             <div class="col-md-3 header-right">
                 <div class="search-bar">
-                    <input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
-                    <input type="submit" value="">
+                    <form class="search" action="#" onsubmit="return searchSubmit()">
+                        <input id="q" type="search" required placeholder="">
+                        <button type="submit">Search</button>
+                    </form>
                 </div>
             </div>
             <div class="clearfix"> </div>

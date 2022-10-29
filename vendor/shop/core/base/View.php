@@ -35,11 +35,12 @@ class View
             $meta = '<title>' . $this->meta['title'] . '</title>';
         }
         ob_start();
-        require_once dirname(__DIR__, 4) . '/app/views/' . $this->prefix . ucfirst($this->controller) . '/' . $this->view . '.php';
-        $content = ob_get_clean();
-        require_once dirname(__DIR__, 4) . '/app/views/layouts/' . $this->layout . '.php';
-        $url = 'https://bank.gov.ua/NBUStatService/v1/statdirectory/exchange?valcode=EUR&json';
-        debug($_GET);
-        debug(PATH);
+        if($data['layout']){
+            require_once dirname(__DIR__, 4) . '/app/views/' . $this->prefix . ucfirst($this->controller) . '/' . $this->view . '.php';
+            $content = ob_get_clean();
+            require_once dirname(__DIR__, 4) . '/app/views/layouts/' . $this->layout . '.php';
+        }else{
+            require_once dirname(__DIR__, 4) . '/app/views/' . $this->prefix . ucfirst($this->controller) . '/' . $this->view . '.php';
+        }
     }
 }

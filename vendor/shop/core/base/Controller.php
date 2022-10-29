@@ -30,9 +30,10 @@ abstract class Controller
         $this->layout = LAYOUT;
         $model = 'app\models\\' . ucfirst($this->controller) . 'Model';
         if(class_exists($model)){
-            $modelObject = new $model($_GET);
+            $modelObject = new $model(array_merge($_GET, $_POST));
             $this->set($modelObject->getData());
         }
+        $this->data['layout'] = true;
     }
 
 

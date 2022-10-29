@@ -44,6 +44,19 @@ abstract class Model
         \R::storeAll($currencies);
     }
 
+
+    public function updateProductsForSearch(){
+        if(isset($this->query['search'])){
+            $searchText = urldecode($this->query['search']);
+            foreach ($this->data['products'] as $key => &$product){
+                if (!str_contains($product['name'], $searchText)){
+                    unset($this->data['products'][$key]);
+                }
+            }
+        }
+    }
+
+
     public function pagination(){
         $this->data['totalPages'] = ceil(count($this->data['products']) / App::$app::getProperty('pagination'));
         if(!isset($this->query['page'])){
